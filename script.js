@@ -2,10 +2,9 @@
  
 // const num   = +prompt("Введите число")
 // const power = +prompt("Введите степень")
-//       power = !isNaN(power) ? power : 2
 // let answer  = 1
 
-// if (!isNaN(num) && num !== 0) {
+// if (!isNaN(power) ? power : 2 && !isNaN(num) && num !== 0) {
 //     for (let i = 0; i < power; i++) {
 //         answer *= num
 //     }
